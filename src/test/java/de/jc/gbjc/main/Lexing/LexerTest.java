@@ -1,6 +1,6 @@
 /**
  * The GB-J Compiler
- * Copyright (C) 2019 - 2020 Julius Clasen
+ * Copyright (C) 2019 - 2021 Julius Clasen
  * Licensed under GNU AGPLv3
  * (See LICENSE.txt for full license)
  */
